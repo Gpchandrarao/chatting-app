@@ -1,0 +1,15 @@
+.welocm-main-coantainer {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  background-color: #fff;
+  flex-direction: column;
+}
+
+.welocm-main-img {
+  height: 20rem;
+}
+
+.welocm-coantainer span {
+  color: #4e0eff;
+}
